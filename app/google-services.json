@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "782514585211",
+    "firebase_url": "https://authintent.firebaseio.com",
+    "project_id": "authintent",
+    "storage_bucket": "authintent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782514585211:android:20d06b9434539c66",
+        "android_client_info": {
+          "package_name": "comt.faycelchaoua.authintent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782514585211-2f8v0c8d0m6svd7i7votnrmk3f2mifb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comt.faycelchaoua.authintent",
+            "certificate_hash": "34e5dc2fe3f6f45a37eb712bd6080a531bca976e"
+          }
+        },
+        {
+          "client_id": "782514585211-0e4vcqargdb3g09g8rnqn1tu9a7ovd7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UU0hA5pIf2IhvufVK4jy18KzvEOzIg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782514585211-0e4vcqargdb3g09g8rnqn1tu9a7ovd7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
