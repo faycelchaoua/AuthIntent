@@ -24,6 +24,5 @@ public class LoginDisplayActivity extends AppCompatActivity {
             loginDisplay.setText(intent.getStringExtra(EXTRA_LOGIN));
             passwordDisplay.setText(intent.getStringExtra(EXTRA_PASSWORD));
         }
-
     }
 }
